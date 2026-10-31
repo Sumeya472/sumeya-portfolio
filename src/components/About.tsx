@@ -104,8 +104,7 @@ export const About: React.FC = () => {
                   <span className="font-semibold text-slate-900 dark:text-white">2028</span>
                 </div>
                 <div className="flex justify-between items-center py-1.5">
-                  <span className="text-slate-500 dark:text-slate-400">Major Internship</span>
-                  <span className="font-semibold text-emerald-600 dark:text-emerald-400">Feb 2027</span>
+                  <span className="text-slate-500 dark:text-slate-400">Onsite </span>
                 </div>
               </div>
             </div>
