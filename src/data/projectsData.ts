@@ -191,7 +191,7 @@ export const projectsData: Project[] = [
     fullDescription: 'A weather application developed with JavaScript that connects to real-time weather APIs to deliver current temperatures, humidity levels, wind speed, and meteorological condition icons based on user search.',
     category: ['frontend'],
     tags: ['JavaScript', 'Weather API', 'Async Fetch', 'Responsive'],
-    image: '/images/projects/weatherapp.jpg',
+    image: '/images/projects/weather app.jpg',
     githubUrl: 'https://github.com/Sumeya472/weather-app',
     highlights: [
       'Asynchronous API requests with live error handling for unknown cities',
