@@ -25,7 +25,7 @@ export const designsData: DesignItem[] = [
   },
   {
     id: 'mobile-app-design',
-    title: 'Mobile Banking & Daily Flow App',
+    title: 'University students connection',
     category: 'mobile',
     categoryLabel: 'Mobile App Design',
     image: '/images/designs/mobile-app-design.png',
@@ -36,7 +36,7 @@ export const designsData: DesignItem[] = [
   },
   {
     id: 'match-poster',
-    title: 'Arsenal Matchday — Sports Editorial Poster',
+    title: 'Match day — Sports Editorial Poster',
     category: 'posters',
     categoryLabel: 'Graphic Design & Posters',
     image: '/images/designs/match-poster.jpg',
@@ -67,28 +67,8 @@ export const designsData: DesignItem[] = [
     dimensions: '1440 × 900 px',
     year: '2025'
   },
-  {
-    id: 'design-system',
-    title: 'Design System & Component Foundations',
-    category: 'ui-ux',
-    categoryLabel: 'UI/UX & Web Interface',
-    image: '/images/designs/design-system.jpg',
-    description: 'A structured UI design system comprising scalable typography scales, 8pt spacing grids, primary/secondary color palettes, button variants, and reusable component tokens.',
-    tools: ['Figma', 'Design Systems', 'Component Architecture', 'Tokens'],
-    dimensions: 'Modular System',
-    year: '2025'
-  },
-  {
-    id: 'landing-page',
-    title: 'SaaS Platform Hero & Landing Page',
-    category: 'ui-ux',
-    categoryLabel: 'UI/UX & Web Interface',
-    image: '/images/designs/landing-page.png',
-    description: 'A high-conversion landing page design featuring an engaging hero headline, live product mockup integration, social proof trust badges, and strategic conversion funnels.',
-    tools: ['Figma', 'Web Design', 'Conversion UX', 'Layouts'],
-    dimensions: '1440 × 1200 px',
-    year: '2025'
-  },
+
+
   {
     id: 'design-with-me',
     title: 'Design With Me — Creative Visual Composition',
