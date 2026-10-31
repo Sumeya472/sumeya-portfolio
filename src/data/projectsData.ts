@@ -124,7 +124,7 @@ export const projectsData: Project[] = [
     fullDescription: 'A community-focused web platform developed with JavaScript, HTML, and CSS. Provides structured resources, user-friendly navigation, accessible layout design, and responsive browsing across devices.',
     category: ['frontend'],
     tags: ['JavaScript', 'HTML5', 'CSS3', 'Web App'],
-    image: '/images/projects/portfolio-v1.jpg',
+    image: '/images/projects/ihsan.jpg',
     githubUrl: 'https://github.com/Sumeya472/Ihsan',
     liveUrl: 'https://ihsan-xi.vercel.app',
     highlights: [
