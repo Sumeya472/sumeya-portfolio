@@ -51,16 +51,7 @@ export const achievementsData: Achievement[] = [
     type: 'certification',
     badge: 'University Certification'
   },
-  {
-    id: 'she-code-africa-scholarship',
-    title: 'She Code Africa Laptop Scholarship Shortlist',
-    organization: 'She Code Africa',
-    roleOrAward: 'Top Candidate Shortlisted',
-    periodOrDate: 'African Continental Recognition',
-    description: 'Selected and shortlisted among the top contenders from a competitive applicant pool of over 60,000 applicants across the African continent, recognized for engineering dedication and technical promise.',
-    type: 'award',
-    badge: 'Top Shortlist (60k+ Applicants)'
-  },
+
   {
     id: 'async-internship',
     title: 'UI/UX Design Internship Experience',
