@@ -98,23 +98,7 @@ export const projectsData: Project[] = [
     ],
     architecture: 'HTML5 + Tailwind CSS + Vanilla JS for mobile drawer'
   },
-  {
-    id: 'social-proof-section',
-    title: 'Social Proof & Ratings Section',
-    shortDescription: 'Responsive testimonial component featuring customer rating pills, star visuals, and staggered review cards.',
-    fullDescription: 'A responsive social proof section built with HTML and Tailwind CSS. Showcases customer review metrics with star rating badges, staggered testimonial cards, responsive flex layouts, and visual hierarchy.',
-    category: ['frontend', 'ui-ux'],
-    tags: ['HTML5', 'Tailwind CSS', 'CSS Flexbox', 'Component Design'],
-    image: '/images/projects/social-proof-section.jpg',
-    githubUrl: 'https://github.com/Sumeya472/social-proof-section',
-    liveUrl: 'https://social-proof-section-roan-three.vercel.app/',
-    highlights: [
-      'Staggered card placement mimicking natural reading rhythm',
-      'Custom rating pill components with SVG stars',
-      'Optimized responsive layouts across phone and widescreen monitors'
-    ],
-    architecture: 'Tailwind CSS Flexbox & Grid component'
-  },
+
   {
     id: 'newsletter-sign-up-with-success-message',
     title: 'Newsletter Sign-Up with Success Modal',
@@ -232,37 +216,5 @@ export const projectsData: Project[] = [
     ],
     architecture: 'JavaScript DOM event-driven math calculator'
   },
-  {
-    id: 'order-summary-component',
-    title: 'E-Commerce Order Summary Card',
-    shortDescription: 'Modern checkout card with plan selection, interactive billing summary, and payment actions.',
-    fullDescription: 'A responsive checkout component built with semantic HTML and modern CSS. Incorporates hero illustration headers, plan selection info cards, interactive change link states, and confirmation action buttons.',
-    category: ['frontend', 'ui-ux'],
-    tags: ['HTML5', 'CSS3', 'UI Component', 'E-Commerce'],
-    image: '/images/projects/order-summary-component.jpg',
-    githubUrl: 'https://github.com/Sumeya472/order-summary-component',
-    highlights: [
-      'Balanced visual hierarchy and elevation shadows',
-      'Accessible interactive buttons with hover state transitions',
-      'Full responsive centering on all screen viewports'
-    ],
-    architecture: 'HTML5 + CSS3 Flexbox'
-  },
-  {
-    id: 'QRcode',
-    title: 'Responsive QR Code Component',
-    shortDescription: 'Clean card component delivering responsive layout, clean typography, and accessibility.',
-    fullDescription: 'A clean front-end component challenge emphasizing responsive layout, subtle drop shadows, and typography hierarchy for mobile onboarding flows.',
-    category: ['frontend', 'ui-ux'],
-    tags: ['HTML5', 'CSS3', 'Responsive Design'],
-    image: '/images/projects/count-web.jpg',
-    githubUrl: 'https://github.com/Sumeya472/QRcode',
-    liveUrl: 'https://q-rcode-flax.vercel.app',
-    highlights: [
-      'Pixel-perfect layout fidelity matching Figma specification',
-      'Lightweight styling with zero external dependencies',
-      'Centering techniques using modern CSS flexbox'
-    ],
-    architecture: 'Semantic HTML5 + CSS3'
-  }
+
 ];
